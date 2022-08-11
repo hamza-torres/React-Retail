@@ -23,6 +23,7 @@ export const BaseButton = styled.button`
     background-color: white;
     color: black;
     border: 1px solid black;
+  }
 `
 
 export const GoogleSignInButton = styled(BaseButton)`
